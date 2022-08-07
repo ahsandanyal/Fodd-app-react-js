@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ahsandanyal/Fodd-app-react-js.git/precache-manifest.e41f23755fc330c5b42216eb1aee285c.js"
+  "/Fodd-app-react-js/precache-manifest.059e8f81097aa1577d4ddb7bff0da002.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ahsandanyal/Fodd-app-react-js.git/index.html", {
+workbox.routing.registerNavigationRoute("/Fodd-app-react-js/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

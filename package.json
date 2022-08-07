@@ -2,7 +2,7 @@
   "name": "food-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/ahsandanyal/Fodd-app-react-js.git",
+  "homepage":"https://ahsandanyal.github.io/Fodd-app-react-js/",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
